@@ -6,7 +6,7 @@ I bridge the gap between **Financial Theory** and **Decentralized Code**. Former
 
 - 🔭 **I’m currently working on:** Building a Corporate Web3 Portfolio & The "20 Projects Protocol".
 - 🛡️ **Security Focus:** Smart Contract Auditing (Foundry/Slither), DeFi Logic Analysis.
-- 💻 **Web2 Stack:** Next.js 15, TypeScript, Python, Firebase, Tailwind CSS.
+- 💻 **Web2 Stack:** Next.js , TypeScript, Python, Firebase, Tailwind CSS.
 - ⛓️ **Web3 Stack:** Solidity, Rust, Alchemy (AA/Subgraphs), Hardhat.
 
 ---
